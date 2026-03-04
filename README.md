@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">🔥 My Awesome Project 🔥</h1>
 
-<!--
-**T0rn321/T0rn321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Version-1.0-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 О проекте
+
+✨ Это супер крутой проект, который делает невероятные вещи.  
+💡 Он создан для обучения и демонстрации возможностей.
+
+---
+
+## 🛠️ Технологии
+
+- 🐍 Python
+- ⚡ FastAPI
+- 🗄️ SQLite
+- 🎨 HTML + CSS
+
+---
+
+## 📂 Структура проекта

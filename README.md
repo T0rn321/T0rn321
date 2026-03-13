@@ -1,9 +1,9 @@
-<h1 align="center">Привет, я [Имя Фамилия]! 👋</h1>
+<h1 align="center">Привет, я Даниил! 👋</h1>
 
 <h3 align="center">Full-Stack Разработчик | Архитектор Решений | Энтузиаст Open Source</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[ТВОЙ ЛОГИН GITHUB]&label=Просмотры+профиля&color=0e75b6&style=flat" alt="Просмотры профиля" />
+  <img src="https://komarev.com/ghpvc/?username=T0rn321&label=Просмотры+профиля&color=0e75b6&style=flat" alt="Просмотры профиля" />
 </p>
 
 ---
@@ -12,12 +12,12 @@
 
 Я — увлеченный разработчик с опытом создания масштабируемых веб-приложений и сложных архитектурных решений. Люблю превращать кофе ☕ в чистый и оптимизированный код.
 
-* 🔭 В настоящее время работаю над **[Название твоего крутого проекта или стартапа]**
+* 🔭 В настоящее время работаю над **[Тут название моего крутого проекта или стартапа]**
 * 🌱 Сейчас изучаю **[Go, Kubernetes, Machine Learning или что-то еще]**
 * 👯 Готов сотрудничать в проектах, связанных с **[Open Source, FinTech, EdTech]**
 * 🤔 Ищу помощь с **[Название технологии или проекта, где нужен совет]**
 * 💬 Спроси меня о **[Python, C#, архитектуре баз данных, системном дизайне]**
-* 📫 Как со мной связаться: **[Твой email, например: dev@example.com]**
+* 📫 Как со мной связаться: **[dev@example.com]**
 * ⚡ Интересный факт: **[Я могу написать скрипт для автоматизации заварки чая быстрее, чем закипит чайник]**
 
 ---
@@ -55,12 +55,12 @@
 ## 📊 Моя статистика на GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[ТВОЙ ЛОГИН GITHUB]&show_icons=true&theme=radical&locale=ru" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[ТВОЙ ЛОГИН GITHUB]&theme=radical&locale=ru" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=T0rn321&show_icons=true&theme=radical&locale=ru" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T0rn321&theme=radical&locale=ru" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ТВОЙ ЛОГИН GITHUB]&layout=compact&theme=radical&locale=ru" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T0rn321&layout=compact&theme=radical&locale=ru" alt="Top Languages" width="60%" />
 </p>
 
 ---
@@ -69,25 +69,25 @@
 
 | Проект | Описание | Технологии |
 | :--- | :--- | :--- |
-| **[Название Проекта 1](https://github.com/твоя-ссылка)** | Интеллектуальная система управления на основе нечеткой логики. | `Python`, `skfuzzy`, `Pandas` |
-| **[Название Проекта 2](https://github.com/твоя-ссылка)** | Десктопное приложение для управления базами данных с использованием паттерна MVVM. | `C#`, `WPF`, `Entity Framework` |
-| **[Название Проекта 3](https://github.com/твоя-ссылка)** | Telegram-бот с разветвленной системой диалогов. | `aiogram`, `PostgreSQL`, `Docker` |
+| **[Название Проекта 1](https://github.com/T0rn321)** | Интеллектуальная система управления на основе нечеткой логики. | `Python`, `skfuzzy`, `Pandas` |
+| **[Название Проекта 2](https://github.com/T0rn321)** | Десктопное приложение для управления базами данных с использованием паттерна MVVM. | `C#`, `WPF`, `Entity Framework` |
+| **[Название Проекта 3](https://github.com/T0rn321)** | Telegram-бот с разветвленной системой диалогов. | `aiogram`, `PostgreSQL`, `Docker` |
 
 ---
 
 ## 📫 Связаться со мной
 
 <p align="center">
-  <a href="https://linkedin.com/in/[ТВОЙ ПРОФИЛЬ]">
+  <a href="https://linkedin.com/in/T0rn321">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://t.me/[ТВОЙ ТЕЛЕГРАМ]">
+  <a href="https://t.me/T0rn321">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="mailto:[ТВОЙ EMAIL]">
+  <a href="mailto:T0rn321@mail.ru">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="[ССЫЛКА НА ТВОЕ ПОРТФОЛИО ИЛИ САЙТ]">
+  <a href="T0rn321.com">
     <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" />
   </a>
 </p>

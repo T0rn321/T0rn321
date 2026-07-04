@@ -2,9 +2,6 @@
 
 <h3 align="center">QA Automation Engineer / Инженер по автоматизации тестирования</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=T0rn321&label=Просмотры+профиля&color=0e75b6&style=flat" alt="Просмотры профиля" />
-</p>
 
 ---
 

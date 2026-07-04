@@ -1,6 +1,6 @@
 <h1 align="center">Привет, я Даниил! 👋</h1>
 
-<h3 align="center">Full-Stack Разработчик | Архитектор Решений | Энтузиаст Open Source</h3>
+<h3 align="center">QA Automation Engineer / Инженер по автоматизации тестирования</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=T0rn321&label=Просмотры+профиля&color=0e75b6&style=flat" alt="Просмотры профиля" />
@@ -10,43 +10,43 @@
 
 ## 👨‍💻 Обо мне
 
-Я — увлеченный разработчик с опытом создания масштабируемых веб-приложений и сложных архитектурных решений. Люблю превращать кофе ☕ в чистый и оптимизированный код.
+Я — QA Automation Engineer с крепким бэкграундом в разработке ПО и проектировании баз данных. Использую свой программистский опыт, чтобы писать надежные, легко поддерживаемые автотесты, выстраивать стабильные CI/CD процессы и помогать командам находить баги еще до того, как они попадут на прод.
 
-* 🔭 В настоящее время работаю над **[Тут название моего крутого проекта или стартапа]**
-* 🌱 Сейчас изучаю **[Go, Kubernetes, Machine Learning или что-то еще]**
-* 👯 Готов сотрудничать в проектах, связанных с **[Open Source, FinTech, EdTech]**
-* 🤔 Ищу помощь с **[Название технологии или проекта, где нужен совет]**
-* 💬 Спроси меня о **[Python, C#, архитектуре баз данных, системном дизайне]**
-* 📫 Как со мной связаться: **[dev@example.com]**
-* ⚡ Интересный факт: **[Я могу написать скрипт для автоматизации заварки чая быстрее, чем закипит чайник]**
+* 🔭 В настоящее время развиваю **фреймворки автоматизации тестирования для UI и API систем**.
+* 🌱 Сейчас углубленно изучаю **нагрузочное тестирование (Performance Testing с k6/JMeter) и Docker-оркестрацию**.
+* 👯 Готов сотрудничать в проектах, где требуется **построение процессов контроля качества (QA), автоматизация регрессии и CI/CD интеграция**.
+* 💬 Спроси меня о **Python, C#, автоматизации на Playwright/PyTest, валидации REST API и архитектуре баз данных**.
+* 📫 Как со мной связаться: [T0rn321@mail.ru](mailto:T0rn321@mail.ru) или в Telegram [@T0rn321](https://t.me/T0rn321).
+* ⚡ Интересный факт: **Могу написать автотест, который найдет баг в форме регистрации быстрее, чем ручной тестировщик успеет ввести свой пароль.**
 
 ---
 
 ## 🛠 Технологический стек
 
+### Автоматизация тестирования и QA-инструменты
+<p align="left">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="PyTest" />
+  <img src="https://img.shields.io/badge/Requests_(API)-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Requests" />
+  <img src="https://img.shields.io/badge/Faker_(Data_Gen)-44B78B?style=for-the-badge&logo=python&logoColor=white" alt="Faker" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
 ### Языки программирования
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-### Фреймворки и библиотеки
+### Базы данных, DevOps и Инфраструктура
 <p align="left">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI" />
-</p>
-
-### Инструменты, DevOps и БД
-<p align="left">
+  <img src="https://img.shields.io/badge/GitHub_Actions_(CI/CD)-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
@@ -65,13 +65,13 @@
 
 ---
 
-## 🔥 Избранные проекты
+## 🔥 Избранные QA & Dev Проекты
 
-| Проект | Описание | Технологии |
+| Проект | Направленность и описание | Технологии |
 | :--- | :--- | :--- |
-| **[Название Проекта 1](https://github.com/T0rn321)** | Интеллектуальная система управления на основе нечеткой логики. | `Python`, `skfuzzy`, `Pandas` |
-| **[Название Проекта 2](https://github.com/T0rn321)** | Десктопное приложение для управления базами данных с использованием паттерна MVVM. | `C#`, `WPF`, `Entity Framework` |
-| **[Название Проекта 3](https://github.com/T0rn321)** | Telegram-бот с разветвленной системой диалогов. | `aiogram`, `PostgreSQL`, `Docker` |
+| **[saucedemo_ui_project](https://github.com/T0rn321/saucedemo_ui_project)** | **UI E2E Automation:** Фреймворк автоматизации пользовательского интерфейса интернет-магазина. Эмуляция полного пути покупателя с использованием стабильных селекторов. Полный CI/CD запуск в облаке. | `Python`, `Playwright`, `PyTest`, `GitHub Actions` |
+| **[jsonplaceholder_qa_project](https://github.com/T0rn321/jsonplaceholder_qa_project)** | **REST API Automation:** Автоматизация тестирования бэкенд-эндпоинтов (CRUD-операции). Динамическая генерация данных без хардкода. Интегрирован автоматический пайплайн сборки. | `Python`, `Requests`, `PyTest`, `Faker`, `GitHub Actions` |
+| **[Desktop DB App](https://github.com/T0rn321)** | **Software Dev:** Десктопное приложение для управления базами данных с использованием паттерна MVVM, демонстрирующее глубокое понимание ООП и работы с СУБД. | `C#`, `WPF`, `Entity Framework` |
 
 ---
 
@@ -87,11 +87,8 @@
   <a href="mailto:T0rn321@mail.ru">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="T0rn321.com">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" />
-  </a>
 </p>
 
 <div align="center">
-  <i>Спасибо, что заглянули! Удачного кодинга! 🚀</i>
+  <i>Спасибо, что заглянули! Всем стабильных билдов и зеленого CI/CD! 🚀</i>
 </div>

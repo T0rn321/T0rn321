@@ -47,12 +47,7 @@
 ## 📊 Моя статистика на GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=T0rn321&show_icons=true&theme=radical&locale=ru" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=T0rn321&theme=radical&locale=ru" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T0rn321&layout=compact&theme=radical&locale=ru" alt="Top Languages" width="60%" />
 </p>
 
 ---

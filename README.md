@@ -69,17 +69,14 @@
 ## 📫 Связаться со мной
 
 <p align="center">
-  <a href="https://linkedin.com/in/T0rn321">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/T0rn321">
+  <a href="https://t.me/DanielsGet">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="mailto:T0rn321@mail.ru">
+  <a href="mailto:danil.get@bk.ru">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <div align="center">
-  <i>Спасибо, что заглянули! Всем стабильных билдов и зеленого CI/CD! 🚀</i>
+  <i>Спасибо, что заглянули! 🚀</i>
 </div>

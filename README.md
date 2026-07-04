@@ -63,7 +63,6 @@
 | :--- | :--- | :--- |
 | **[saucedemo_ui_project](https://github.com/T0rn321/saucedemo_ui_project)** | **UI E2E Automation:** Фреймворк автоматизации пользовательского интерфейса интернет-магазина. Эмуляция полного пути покупателя с использованием стабильных селекторов. Полный CI/CD запуск в облаке. | `Python`, `Playwright`, `PyTest`, `GitHub Actions` |
 | **[jsonplaceholder_qa_project](https://github.com/T0rn321/jsonplaceholder_qa_project)** | **REST API Automation:** Автоматизация тестирования бэкенд-эндпоинтов (CRUD-операции). Динамическая генерация данных без хардкода. Интегрирован автоматический пайплайн сборки. | `Python`, `Requests`, `PyTest`, `Faker`, `GitHub Actions` |
-| **[Desktop DB App](https://github.com/T0rn321)** | **Software Dev:** Десктопное приложение для управления базами данных с использованием паттерна MVVM, демонстрирующее глубокое понимание ООП и работы с СУБД. | `C#`, `WPF`, `Entity Framework` |
 
 ---
 

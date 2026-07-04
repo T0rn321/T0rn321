@@ -1,6 +1,6 @@
 <h1 align="center">Привет, я Даниил! 👋</h1>
 
-<h3 align="center">QA Automation Engineer / Инженер по автоматизации тестирования</h3>
+<h3 align="center">QA Junior Automation Engineer / Начинающий инженер по автоматизации тестирования</h3>
 
 
 ---
